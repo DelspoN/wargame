@@ -1,18 +1,18 @@
 # pwnable.tw
 
 - [x] start
-- [ ] orw
+- [x] orw
 - [ ] calc
 - [ ] doubblesort
-- [ ] hacknote
-- [ ] Siver Bullet
-- [ ] applestore
+- [x] hacknote
+- [x] Siver Bullet
+- [x] applestore
 - [ ] criticalheap
-- [ ] seethefile
-- [ ] Death Note
+- [x] seethefile
+- [x] Death Note
 - [ ] Starbound
 - [ ] BabyStack
-- [ ] Spirited Away
+- [x] Spirited Away
 - [ ] Secret Garden
 - [ ] Alive Note
 - [ ] BookWriter
